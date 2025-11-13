@@ -34,3 +34,5 @@ Foi essa experiência de resolver um problema real de negócio usando lógica e 
 ### 🚀 Projetos em Andamento
 
 * **Minimundo de uma Faculdade:** Criando um diagrama para um banco de dados referente a uma atividade da Faculdade, referente à matéria de modelagem e banco de dados.
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
