@@ -28,7 +28,7 @@
 <p>🎓 <b>Formação:</b> Ciências Contábeis & ADS</p>
     </td>
     <td width="50%">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genkeomaru&layout=compact&theme=dark"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genkeomaru&hide=html&layout=compact&theme=github_dark"/>
     </td>
   </tr>
 </table>
