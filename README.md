@@ -41,3 +41,18 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+---
+
+### 💼 Case de Sucesso: Otimização Fiscal na Aethra
+> *Como transformei um processo manual de 1 hora em uma automação instantânea.*
+
+**O Problema:**
+A conciliação entre Fiscal e Estoque era feita manualmente, consumindo cerca de 20 horas mensais da equipe e gerando erros que impactavam a controladoria.
+
+**Minha Solução (Lógica de Negócio):**
+1.  **Mapeamento:** Rastreamento do fluxo de dados desde a origem no SAP.
+2.  **Automação:** Criação de uma ferramenta em Excel com validação automática de regras de negócio.
+3.  **Resultado:** Eliminação de 100% dos erros manuais e liberação da equipe para análise crítica.
+
+*Este projeto foi o gatilho para minha transição de Contabilidade para Desenvolvimento de Sistemas, pois percebi que minha paixão é criar soluções lógicas para problemas reais.*
