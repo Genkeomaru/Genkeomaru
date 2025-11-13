@@ -17,7 +17,7 @@
  <h3>🧠 Diferencial Competitivo</h3>
 <ul>
  <li><b>Business Intelligence:</b> Ex-Contador com visão de lucro/prejuízo.</li>
- <li><b>Foco:</b> Não escrevo código; resolvo problemas de negócio.</li>
+ <li><b>Foco:</b> Apaixonado por transformar linhas de código em soluções eficientes.</li>
  <li><b>Case Real:</b> Otimização fiscal na Aethra (veja abaixo 👇).</li>
 </ul>
 <p>🎓 <b>Formação:</b> Ciências Contábeis & ADS</p>
