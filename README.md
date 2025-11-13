@@ -14,16 +14,13 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <h3>🧠 Sobre Mim</h3>
-      <p>
-        Não sou apenas um "codificador". Sou um profissional que entende 
-        onde o código impacta o dinheiro da empresa.
-      </p>
-      <p>
-        🎓 <b>Formação:</b> Ciências Contábeis (2024) & ADS.<br>
-        💼 <b>Case Real:</b> Automatizei conciliações fiscais na Aethra, 
-        eliminando 100% dos erros manuais e poupando 1h/dia.
-      </p>
+ <h3>🧠 Diferencial Competitivo</h3>
+<ul>
+ <li><b>Business Intelligence:</b> Ex-Contador com visão de lucro/prejuízo.</li>
+ <li><b>Foco:</b> Não escrevo código; resolvo problemas de negócio.</li>
+ <li><b>Case Real:</b> Otimização fiscal na Aethra (veja abaixo 👇).</li>
+</ul>
+<p>🎓 <b>Formação:</b> Ciências Contábeis & ADS</p>
     </td>
     <td width="50%">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genkeomaru&layout=compact&theme=dark"/>
