@@ -1,39 +1,43 @@
-# Olá, sou o Guilherme
----
+<div align="center">
+  <h1>Olá, sou o Guilherme (Genkeomaru) 🚀</h1>
+  <h3>Ex-Contábil migrando para Dev | Foco em Lógica de Negócio</h3>
+</div>
 
-### 🙋‍♂️ Sobre Mim
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
 
-Profissional em transição de carreira, unindo uma base sólida em Ciências Contábeis a uma nova especialização em Análise e Desenvolvimento de Sistemas (ADS). Minha experiência de mais de 2 anos na área Fiscal e Administrativa me proporcionou profundo conhecimento em regras de negócio complexas, compliance e otimização de processos.
+<br/>
 
-Atualmente, estou focado em aplicar essa visão analítica e essa lógica de negócios para construir e otimizar soluções tecnológicas. Meu objetivo é atuar como um desenvolvedor que entende não apenas o código, mas o impacto que ele gera no negócio.
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>🧠 Sobre Mim</h3>
+      <p>
+        Não sou apenas um "codificador". Sou um profissional que entende 
+        onde o código impacta o dinheiro da empresa.
+      </p>
+      <p>
+        🎓 <b>Formação:</b> Ciências Contábeis (2024) & ADS.<br>
+        💼 <b>Case Real:</b> Automatizei conciliações fiscais na Aethra, 
+        eliminando 100% dos erros manuais e poupando 1h/dia.
+      </p>
+    </td>
+    <td width="50%">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genkeomaru&layout=compact&theme=dark"/>
+    </td>
+  </tr>
+</table>
 
----
+<hr/>
 
-### 💼 Case de Sucesso: Otimização de Processos na Aethra
-
-Na minha experiência como Auxiliar Administrativo na área Fiscal, identifiquei um processo de conciliação de fechamento mensal de estoque que era extremamente manual e demorado. Era um serviço que levava cerca de 1 hora por dia, para cruzar dados fiscais e estoque, um trabalho suscetível a erros de análise e digitação, que poderia impactar a área da Controladoria que realizava o custo.
-
-Minha principal habilidade foi identificar essa ineficiência e não me conformar com ela. Tomei a iniciativa de mapear todo o fluxo de dados, desde a origem até o relatório final.
-
-Utilizando meu conhecimento em Excel, redesenhei e automatizei a rotina. Criei uma planilha que quando trazia informações do SAP, já realizava a análise de todos os itens e assim já mostrava a divergência do Fiscal x Estoque, que centralizava as informações e aplicava as regras de validação automaticamente. Assim ficava mais fácil de realizar a análise e apontar os erros que tinha do Fiscal com o Estoque.
-
-O resultado alcançado foi imediato, reduzimos o tempo gasto nessa tarefa, assim eliminamos 100% dos erros manuais de conciliação e com isso pude focar em análises críticas, em vez de trabalho operacional.
-
-Foi essa experiência de resolver um problema real de negócio usando lógica e automação que solidificou minha paixão pela área e me levou a cursar Análise e Desenvolvimento de Sistemas.
-
----
-
-### 🛠️ Tecnologias que estou estudando
-
-* JavaScript
-* ![JavaSrcipt](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-* SQL
-* C#
-
----
-
-### 🚀 Projetos em Andamento
-
-* **Minimundo de uma Faculdade:** Criando um diagrama para um banco de dados referente a uma atividade da Faculdade, referente à matéria de modelagem e banco de dados.
-
-
+<div align="center">
+  <a href="LINK_DO_SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
