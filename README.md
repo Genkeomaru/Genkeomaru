@@ -11,7 +11,7 @@
   <br/>
   
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div>
 
 <br/>
@@ -19,16 +19,16 @@
 <table align="center">
   <tr>
     <td width="50%">
- <h3>🧠 Diferencial Competitivo</h3>
-<ul>
- <li><b>Business Intelligence:</b> Ex-Contador com visão de lucro/prejuízo.</li>
- <li><b>Foco:</b> Apaixonado por transformar linhas de código em soluções eficientes.</li>
- <li><b>Case Real:</b> Otimização fiscal na Aethra (veja abaixo 👇).</li>
-</ul>
-<p>🎓 <b>Formação:</b> Ciências Contábeis & ADS</p>
+      <h3>🧠 Diferencial Competitivo</h3>
+      <ul>
+        <li><b>Business Intelligence:</b> Ex-Contador com visão de lucro/prejuízo.</li>
+        <li><b>Foco:</b> Apaixonado por transformar linhas de código em soluções eficientes.</li>
+        <li><b>Case Real:</b> Otimização fiscal na Aethra (veja abaixo 👇).</li>
+      </ul>
+      <p>🎓 <b>Formação:</b> Ciências Contábeis & ADS</p>
     </td>
     <td width="50%">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genkeomaru&layout=compact&theme=vision-friendly-dark&show_icons=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genkeomaru&layout=compact&theme=vision-friendly-dark&show_icons=true&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -39,7 +39,7 @@
   <a href="https://www.linkedin.com/in/guilherme-rodrigues-8734ab1b9/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:guii.rodrigues10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
