@@ -18,7 +18,7 @@
 
 <table align="center">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🧠 Diferencial Competitivo</h3>
       <ul>
         <li><b>Business Intelligence:</b> Ex-Contador com visão de lucro/prejuízo.</li>
@@ -27,8 +27,13 @@
       </ul>
       <p>🎓 <b>Formação:</b> Ciências Contábeis & ADS</p>
     </td>
-    <td width="50%">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genkeomaru&layout=compact&theme=vision-friendly-dark&show_icons=true&hide_border=true" />
+    <td width="50%" align="center">
+      <h3>💻 Minhas Ferramentas</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,mysql,git,github,vscode,excel&perline=5&theme=dark" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
