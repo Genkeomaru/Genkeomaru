@@ -28,12 +28,18 @@
       <p>🎓 <b>Formação:</b> Ciências Contábeis & ADS</p>
     </td>
     <td width="50%" align="center">
-      <h3>💻 Minhas Ferramentas</h3>
+      <h3>💻 Tech Stack & Dados</h3>
+      
       <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,mssql,excel,git,github,vscode&perline=5&theme=dark" />
-  </a>
-</p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,git,github,vscode&perline=4&theme=dark" />
+        </a>
+      </p>
+      
+      <p align="center">
+        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
