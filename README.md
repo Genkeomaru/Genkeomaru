@@ -34,7 +34,7 @@
 <hr/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/guilherme-rodrigues-8734ab1b9/">
+  <a href="https://www.linkedin.com/in/guilherme-rodrigues-gr/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:guii.rodrigues10@gmail.com">
