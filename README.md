@@ -23,36 +23,6 @@ Currently working as a **Developer Intern at Stattus4**, a cleantech company in 
 
 ---
 
-## 💼 Case Studies
-
-### Case 1 — Tax Reconciliation Automation · Aethra
-
-> *Turning a 20-hour monthly manual process into an instant, error-free automation.*
-
-| | |
-|---|---|
-| **Problem** | The reconciliation between the Tax and Inventory departments was performed manually each month, consuming ~20 team hours and introducing systematic errors into the accounting pipeline — all traced back to a missing source of truth between SAP data and internal spreadsheets. |
-| **Solution** | Mapped the entire data flow from its origin in SAP. Engineered a high-performance automation tool in Excel with embedded business rule validation logic, eliminating the need for manual cross-referencing. |
-| **Impact** | **100% of manual errors eliminated.** A process that previously took 1 hour to run manually became instant. The team was freed from reconciliation overhead and redirected toward critical financial analysis. |
-| **Tools** | SAP · Microsoft Excel (Advanced Automation) · Business Logic Modeling |
-
-> This project was the catalyst for my transition into software development — I realized my real passion is designing logical systems that solve real-world operational problems.
-
----
-
-### Case 2 — Financial Orchestration & Measurement System · Stattus4
-
-> *Full-stack platform for automated KPI measurement, billing reconciliation, and document generation.*
-
-| | |
-|---|---|
-| **Challenge** | Manual bottlenecks in corporate billing cycles and contract KPI tracking were causing delays and inaccuracies in critical financial reporting. |
-| **Solution** | Architected and developed a full-stack orchestration system that automatically cross-references field KPIs against complex contract data to generate compliance documents and interactive management dashboards. |
-| **Impact** | Drastically reduced manual processing time across the billing pipeline. Improved billing data accuracy and gave stakeholders real-time visibility into contract performance. |
-| **Tech Stack** | JavaScript (ES6+) · REST APIs · JSON Storage · Chart.js · Google Apps Script · HTML/CSS |
-
----
-
 ## 🛠 Technical Toolbox
 
 ### Languages & Frameworks
@@ -77,6 +47,48 @@ Currently working as a **Developer Intern at Stattus4**, a cleantech company in 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+## 💼 Case Studies
+
+### Case 1 — Tax Reconciliation Automation · Aethra
+
+> *Turning a 20-hour monthly solo process into an instant, error-free automation.*
+
+| | |
+|---|---|
+| **Problem** | The reconciliation between the Tax and Inventory departments was a manual, end-to-end process I independently owned each month — consuming approximately 20 hours of my operational time and remaining highly prone to systematic errors before the data reached the controlling department for inventory closure. |
+| **Solution** | Mapped the entire data flow from its origin in SAP. Engineered a high-performance automation tool in Excel with embedded business rule validation logic, eliminating the need for manual cross-referencing at every stage of the pipeline. |
+| **Impact** | **100% of manual errors eliminated.** A process that previously demanded 1 hour of hands-on execution became completely instant — freeing my time to focus on critical financial analysis and directly accelerating the controlling department's inventory closure calculations. |
+| **Tools** | SAP · Microsoft Excel (Advanced Automation) · Business Logic Modeling |
+
+> This project was the catalyst for my transition into software development — I realized my real passion is designing logical systems that solve real-world operational problems.
+
+---
+
+### Case 2 — Financial Orchestration & Measurement System · Stattus4
+
+> *Full-stack platform for automated KPI measurement, billing reconciliation, and document generation.*
+
+| | |
+|---|---|
+| **Challenge** | Manual bottlenecks in corporate billing cycles and contract KPI tracking were causing delays and inaccuracies in critical financial reporting. |
+| **Solution** | Architected and developed a full-stack orchestration system that automatically cross-references field KPIs against complex contract data to generate compliance documents and interactive management dashboards. |
+| **Impact** | Drastically reduced manual processing time across the billing pipeline. Improved billing data accuracy and gave stakeholders real-time visibility into contract performance. |
+| **Tech Stack** | JavaScript (ES6+) · REST APIs · JSON Storage · Chart.js · Google Apps Script · HTML/CSS |
+
+---
+
+## 🛠️ Independent Projects
+
+### Project ADA — Full-Stack Web Application
+A performance-driven web application built on a deliberately decoupled architecture — separating concerns cleanly across layers to maximize scalability and maintainability. The frontend is engineered in **React/Next.js**, served via **Vercel** for edge-optimized delivery. The backend runs as a standalone **Node.js** service hosted on **Render**, exposing a clean REST interface. The database layer is containerized locally using **Supabase CLI** and **Docker**, mirroring a production-grade BaaS environment throughout the development lifecycle.
+
+---
+
+### Mahaya & Stream Tracker — Automation Bots
+Scalable automated service bots engineered to monitor external APIs and integrate third-party platform data in real-time. Both systems are designed around asynchronous **JavaScript** execution patterns, optimized **JSON** storage strategies, and resilient polling logic — built to run continuously with minimal overhead and maximum observability.
 
 ---
 
