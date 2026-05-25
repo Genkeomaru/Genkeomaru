@@ -82,7 +82,7 @@ Currently working as a **Developer Intern at Stattus4**, a cleantech company in 
 
 ## 🛠️ Independent Projects
 
-### Project ADA — Full-Stack Web Application
+### Project Ada — Full-Stack Web Application
 A performance-driven web application built on a deliberately decoupled architecture — separating concerns cleanly across layers to maximize scalability and maintainability. The frontend is engineered in **React/Next.js**, served via **Vercel** for edge-optimized delivery. The backend runs as a standalone **Node.js** service hosted on **Render**, exposing a clean REST interface. The database layer is containerized locally using **Supabase CLI** and **Docker**, mirroring a production-grade BaaS environment throughout the development lifecycle.
 
 ---
