@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Olá, sou o Guilherme (Genkeomaru) 🚀</h1>
-  <h3>Ex-Contábil migrando para Dev | Foco em Lógica de Negócio</h3>
+  <h1>Hi, I'm Guilherme (Genkeomaru) 🚀</h1>
+  <h3>Ex-Accountant transitioning to Dev | Focused on Business Logic</h3>
 </div>
 
 <br/>
@@ -8,16 +8,16 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Diferencial Competitivo</h3>
+      <h3>🧠 Competitive Edge</h3>
       <ul>
-        <li><b>Business Intelligence:</b> Ex-Contador com visão de lucro/prejuízo.</li>
-        <li><b>Foco:</b> Apaixonado por transformar linhas de código em soluções eficientes.</li>
-        <li><b>Case Real:</b> Otimização fiscal na Aethra (veja abaixo 👇).</li>
+        <li><b>Business Intelligence:</b> Ex-Accountant with a profit/loss mindset.</li>
+        <li><b>Focus:</b> Passionate about turning lines of code into efficient solutions.</li>
+        <li><b>Real Case:</b> Tax optimization at Aethra (see below 👇).</li>
       </ul>
-      <p>🎓 <b>Formação:</b> Ciências Contábeis & ADS</p>
+      <p>🎓 <b>Education:</b> Accounting Sciences & Systems Analysis and Development</p>
     </td>
     <td width="50%" align="center">
-      <h3>💻 Tech Stack & Dados</h3>
+      <h3>💻 Tech Stack & Data</h3>
       <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,git,github,vscode&perline=4&theme=dark" />
@@ -44,15 +44,15 @@
 
 ---
 
-### 💼 Case de Sucesso: Otimização Fiscal na Aethra
-> *Como transformei um processo manual de 1 hora em uma automação instantânea.*
+### 💼 Success Case: Tax Optimization at Aethra
+> *How I turned a 1-hour manual process into an instant automation.*
 
-**O Problema:**
-A conciliação entre Fiscal e Estoque era feita manualmente, consumindo cerca de 20 horas mensais da equipe e gerando erros que impactavam a controladoria.
+**The Problem:**
+The reconciliation between the Tax and Inventory departments was done manually, consuming around 20 team hours per month and generating errors that impacted the accounting department.
 
-**Minha Solução (Lógica de Negócio):**
-1.  **Mapeamento:** Rastreamento do fluxo de dados desde a origem no SAP.
-2.  **Automação:** Criação de uma ferramenta em Excel com validação automática de regras de negócio.
-3.  **Resultado:** Eliminação de 100% dos erros manuais e liberação da equipe para análise crítica.
+**My Solution (Business Logic):**
+1. **Mapping:** Traced the entire data flow from its origin in SAP.
+2. **Automation:** Built an Excel tool with automatic business rule validation.
+3. **Result:** Eliminated 100% of manual errors and freed the team to focus on critical analysis.
 
-*Este projeto foi o gatilho para minha transição de Contabilidade para Desenvolvimento de Sistemas, pois percebi que minha paixão é criar soluções lógicas para problemas reais.*
+*This project was the catalyst for my transition from Accounting to Systems Development — it made me realize my passion is creating logical solutions for real-world problems.*
