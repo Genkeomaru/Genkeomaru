@@ -83,6 +83,9 @@ Currently working as a **Full Stack Developer at Stattus4**, a cleantech company
 
 ## 🛠️ Independent Projects
 
+### Banco de Ponto — Time & Attendance Platform (In Development)
+Personal web application for employee time tracking and hour-bank management, built with **Next.js 15** (App Router/TypeScript) and **Supabase** (PostgreSQL). Three-tier RBAC enforced server-side (middleware, route handlers, and RLS — never UI-only), an atomic audit log on every edit, and a state machine for monthly closing with a grace period before data deletion. Identified and fixed three security vulnerabilities during development: a timing leak in user enumeration, insufficient JWT secret entropy, and RLS bypass via the database owner role.
+
 ### Mahaya & Stream Tracker — Automation Bots
 Scalable automated service bots engineered to monitor external APIs and integrate third-party platform data in real-time. Both systems are designed around asynchronous **JavaScript** execution patterns, optimized **JSON** storage strategies, and resilient polling logic — built to run continuously with minimal overhead and maximum observability.
 
