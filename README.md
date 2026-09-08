@@ -19,7 +19,7 @@ My background in tax accounting gave me an unusual engineering superpower: **I r
 
 I build with a product-minded approach: performance, clean architecture, semantic markup, and accessibility aren't afterthoughts — they're defaults.
 
-Currently working as a **Developer Intern at Stattus4**, a cleantech company in the sanitation sector.
+Currently working as a **Full Stack Developer at Stattus4**, a cleantech company in the sanitation sector.
 
 ---
 
@@ -38,6 +38,7 @@ Currently working as a **Developer Intern at Stattus4**, a cleantech company in 
 ### Databases & BaaS
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Cloud, DevOps & Tooling
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -54,38 +55,33 @@ Currently working as a **Developer Intern at Stattus4**, a cleantech company in 
 
 ### Case 1 — Tax Reconciliation Automation · Aethra
 
-> *Turning a 20-hour monthly solo process into an instant, error-free automation.*
+> *Turning a 20-hour monthly solo process into a fast, reliable automation.*
 
 | | |
 |---|---|
 | **Problem** | The reconciliation between the Tax and Inventory departments was a manual, end-to-end process I independently owned each month — consuming approximately 20 hours of my operational time and remaining highly prone to systematic errors before the data reached the controlling department for inventory closure. |
 | **Solution** | Mapped the entire data flow from its origin in SAP. Engineered a high-performance automation tool in Excel with embedded business rule validation logic, eliminating the need for manual cross-referencing at every stage of the pipeline. |
-| **Impact** | **100% of manual errors eliminated.** A process that previously demanded 1 hour of hands-on execution became completely instant — freeing my time to focus on critical financial analysis and directly accelerating the controlling department's inventory closure calculations. |
+| **Impact** | **30% reduction in overall closing-cycle time**, with manual reconciliation errors cut by **90–100%** — freeing my time to focus on critical financial analysis and directly accelerating the controlling department's inventory closure calculations. |
 | **Tools** | SAP · Microsoft Excel (Advanced Automation) · Business Logic Modeling |
 
 > This project was the catalyst for my transition into software development — I realized my real passion is designing logical systems that solve real-world operational problems.
 
 ---
 
-### Case 2 — Financial Orchestration & Measurement System · Stattus4
+### Case 2 — Plataforma BMs · Stattus4
 
-> *Full-stack platform for automated KPI measurement, billing reconciliation, and document generation.*
+> *Full-stack platform (Product Owner + Developer) automating measurement-billing document generation across three product lines.*
 
 | | |
 |---|---|
-| **Challenge** | Manual bottlenecks in corporate billing cycles and contract KPI tracking were causing delays and inaccuracies in critical financial reporting. |
-| **Solution** | Architected and developed a full-stack orchestration system that automatically cross-references field KPIs against complex contract data to generate compliance documents and interactive management dashboards. |
-| **Impact** | Drastically reduced manual processing time across the billing pipeline. Improved billing data accuracy and gave stakeholders real-time visibility into contract performance. |
-| **Tech Stack** | JavaScript (ES6+) · REST APIs · JSON Storage · Chart.js · Google Apps Script · HTML/CSS |
+| **Challenge** | Manual, multi-source data collection (spreadsheets, monitoring systems, CRM) for generating client billing/measurement reports (Boletins de Medição), across three distinct business lines with different data sources and calculation rules. |
+| **Solution** | Architected and develop a full-stack platform with a **Next.js/React** frontend (Vercel) and a dedicated **Node.js/Express + Puppeteer** PDF generation service (Render), backed by **PostgreSQL (Supabase)** and module-specific caching via **Upstash Redis**. Integrates with CRM (Monday.com/HubSpot) and partner telemetry APIs. Covered by a suite of **900+ automated tests**. |
+| **Impact** | Eliminated manual document assembly for the platform's active modules. Diagnosed and fixed two silent production data-loss bugs (a cyclic-reference guard and an empty CRM matching field) that were hiding **451 of 1,247** client records from company operations, restoring full visibility with no data loss. |
+| **Tech Stack** | Next.js · TypeScript · Node.js/Express · Puppeteer · PostgreSQL (Supabase) · Upstash Redis · REST APIs · Docker |
 
 ---
 
 ## 🛠️ Independent Projects
-
-### Project Ada — Full-Stack Web Application
-A performance-driven web application built on a deliberately decoupled architecture — separating concerns cleanly across layers to maximize scalability and maintainability. The frontend is engineered in **React/Next.js**, served via **Vercel** for edge-optimized delivery. The backend runs as a standalone **Node.js** service hosted on **Render**, exposing a clean REST interface. The database layer is containerized locally using **Supabase CLI** and **Docker**, mirroring a production-grade BaaS environment throughout the development lifecycle.
-
----
 
 ### Mahaya & Stream Tracker — Automation Bots
 Scalable automated service bots engineered to monitor external APIs and integrate third-party platform data in real-time. Both systems are designed around asynchronous **JavaScript** execution patterns, optimized **JSON** storage strategies, and resilient polling logic — built to run continuously with minimal overhead and maximum observability.
